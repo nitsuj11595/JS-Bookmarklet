@@ -1,3 +1,3 @@
 javascript:(function(){
-	console.log("hello world!");
+	alert("hello world!");
 })()
